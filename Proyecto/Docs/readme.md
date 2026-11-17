@@ -36,4 +36,3 @@ categoria 3: Mas informacion
 - [ ] Diseñar la interfaz de usuario
 
 
-Prueba para saber si puedo edita
