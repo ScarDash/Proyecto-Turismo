@@ -5,7 +5,7 @@ Asegurandose que los 4 horarios generados no  colisionen entre dos grupos de tur
 
 
 
-# Requerimientos:
+# Requerimientos del Proyecto:
 A diferencia de una página html convencional  donde hacer click en un boton lleva a diferentes ventanas se usaran ventanas SPAS Single Page Application, o Aplicación de Página Única es una aplicación o sitio web que carga una sola página HTML inicial y va actualizando su contenido de manera dinámica a medida que el usuario interactúa con ella, sin necesidad de recargar la página completa del navegador.
 
 Habran dos SPA en el proyecto 
@@ -25,9 +25,10 @@ categoria 3: Mas informacion
 
 # RESTRICCIONES
 
-- [x] No utilizar librerias 
+- [] No utilizar librerias 
 - [ ] Utilizar version php 8.2 
-- [ ]
+- [ ] No uso de IA
+      
 
 ## Lista Tareas Del Proyecto
 - [x] Configurar el repositorio inicial
