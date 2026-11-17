@@ -25,7 +25,7 @@ categoria 3: Mas informacion
 
 # RESTRICCIONES
 
-- [] No utilizar librerias 
+- [ ] No utilizar librerias 
 - [ ] Utilizar version php 8.2 
 - [ ] No uso de IA
       
